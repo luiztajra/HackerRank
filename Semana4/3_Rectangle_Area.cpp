@@ -28,4 +28,5 @@ int main(){
     r.read_input();
     r.Rectangle::display();
     r.display();
+    return 0;
 }
